@@ -3,6 +3,7 @@ gui:
   nerdFontsVersion: "3" # nerd fonts version to use ("2" or "3"); empty means don't show nerd font icons
   expandFocusedSidePanel: true
   showBottomLine: false
+  mainPanelSplitMode: 'vertical' # one of 'horizontal' | 'flexible' | 'vertical' default 'flexible'
 
 keybinding:
   universal:
